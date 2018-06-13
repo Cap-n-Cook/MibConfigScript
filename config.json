@@ -1,0 +1,22 @@
+{
+	"sensors" : {
+		"dome_current" : {
+			"sensor_type" : "CURRENT",
+			"pin" : 1,
+			"datalogger_name" : "dome1",
+			"status" : "active"
+		},
+		"dome_temperature" : {
+			"sensor_type" : "TEMPERATURE",
+			"pin" : 2,
+			"datalogger_name" : "dome1",
+			"status" : "active"
+		},
+		"dome_antenna_vibration" : {
+			"sensor_type" : "VIBRATION",
+			"pin" : 3,
+			"datalogger_name" : "dome1",
+			"status" : "inactive"
+		} 
+	}
+}
